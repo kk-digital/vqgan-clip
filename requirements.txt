@@ -1,12 +1,12 @@
 absl-py==0.13.0
 aiohttp==3.7.4.post0
-antlr4-python3-runtime==4.8
+antlr4-python3-runtime==4.9
 async-timeout==3.0.1
 attrs==21.2.0
 backcall==0.2.0
 cachetools==4.2.2
 certifi==2021.5.30
-chardet==5.1.0
+chardet==4.0.0
 git+https://github.com/openai/CLIP.git
 decorator==5.0.9
 einops==0.6.1
@@ -57,7 +57,7 @@ torch-optimizer==0.3.0
 torchvision==0.15.2
 tqdm==4.65.0
 traitlets==5.0.5
-typing-extensions==3.10.0.0
+typing-extensions==4.0.0
 urllib3==1.26.6
 wcwidth==0.2.5
 Werkzeug==2.0.1
