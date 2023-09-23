@@ -7,7 +7,7 @@ backcall==0.2.0
 cachetools==4.2.2
 certifi==2021.5.30
 chardet==5.1.0
-git+https://github.com/openai/CLIP.git
+#git+https://github.com/openai/CLIP.git
 decorator==5.0.9
 einops==0.6.1
 fsspec==2021.6.1
